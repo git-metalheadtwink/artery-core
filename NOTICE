@@ -1,0 +1,10 @@
+ArteryCore
+Copyright 2026 ArteryCore contributors
+
+This product includes software derived from TraumaCore
+(https://github.com/Hysocs) Copyright Hysocs, licensed under the
+Apache License, Version 2.0.
+
+Portions of the anatomical bone geometry, wound-ballistics depth model,
+wound-track bleed accumulator, bruising, impact shock, blood presentation
+and bleed kill-attribution logic in this project are derived from that work.
